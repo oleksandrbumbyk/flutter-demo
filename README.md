@@ -1,6 +1,6 @@
-# flutter_demo_axon
+# flutter-demo
 
-A new Flutter application.
+A new Flutter presentation demo project.
 
 ## Getting Started
 
